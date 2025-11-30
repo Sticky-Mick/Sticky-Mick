@@ -1,16 +1,14 @@
-## Hi there 👋
+# About Me
 
-<!--
-**Sticky-Mick/Sticky-Mick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey, I'm Mike Power. I'm a theoretical physicist who has left the regular academic world. I now teach high school to help save our rapidly deteriorating education system. Now that I've left academia, I have begun my journey as a hobbyist. I will now only do research that I find interesting, even if it's completely useless or unhelpful. I don't have to chase grants or appease others in the process, and I don't have to worry about academic conflicts or interoffice politics. As one may guess, all of the things above drive me absolutely crazy and, in hindsight, are not good for one's mental health!
 
-Here are some ideas to get you started:
+My interests and expertise lie in teaching and computational/theoretical magnetohydrodynamics. I have honed my skills over a decade in computational and theoretical physics and have become quite adept at developing algorithms and clever mathematical techniques for solving extremely complex problems. In my teaching practice, I aim to meet students where they're at and first help them build a strong mathematical foundation, which, in the modern day, I find sorely lacking in students, through no fault of their own. The development of good number sense, vital to a strong algebraic foundation, has all but disappeared from our current curriculum. After developing a strong foundation for students, I hold high standards and respect both their interests and intelligence. In my view, it is the teacher's responsibility to inspire students to learn, so I try to do so to the best of my ability and develop projects for students to work on that apply their scientific or mathematical interests. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+In my newfound, post-academic life of hobbying, I am currently playing the piano again, kickboxing/doing MMA again, gaming again, and essentially just living again. The first step along my research journey is taking me to C++, which I've not seriously touched in 12 years (most of my development has been FORTRAN, C, and Python). I'm going to relearn it from scratch by using Bjarne Stroustrup's books. My goal is to learn the language as in-depth as possible and learn how to develop apps and other non-physics things! I may also rewrite and GPU-accelerate the MHD code Gizmo using C++; who knows what I'll feel up to. Of course, I am also passively working on the Navier-Stokes existence and smoothness problem, because, if you're not working on a millennium prize problem, are you really a hobbyist? 🤣 
+
+- 🔭 I’m currently working on some simple C++ projects and rewriting old code in C++.
+- 🌱 I’m currently learning C++ from Bjarne Stroustrup!
+- 👯 I’m looking to collaborate on educational ideas, such as better ways to teach physics.
+- 🤔 I’m looking for help with nothing at the moment.
+- ⚡ Fun fact: I only use Windows OS on my main PC due to kernel-level anti-cheat on some games. I long for the day when everything will work smoothly on Linux (we're almost there, if the companies want to get there). When that day comes, I will leave Windows so quickly it may violate causality. 
 -->
